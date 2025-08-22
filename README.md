@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Mastering discipline
 - 🌱 I’m currently learning ... SOC Analyst gruntwork
 - 💞️ I’m looking to collaborate on ... Developing skills
-- 📫 How to reach me ... stefantrusca@gmail.com
+- 📫 How to reach me ... Vibrate on a frequency high enough
 - 😄 Pronouns: ... no
 - ⚡ Fun fact: ... I look like a human
 
