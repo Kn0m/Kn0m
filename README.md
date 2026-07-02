@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kn0m
 - 👀 I’m interested in ... Mastering discipline
-- 🌱 I’m currently learning ... SOC Analyst gruntwork
+- 🌱 I’m currently learning ... Zero Trust / CMMC / NIST 800-171 R2
 - 💞️ I’m looking to collaborate on ... Developing skills
 - 📫 How to reach me ... Vibrate on a frequency high enough
 - 😄 Pronouns: ... no
